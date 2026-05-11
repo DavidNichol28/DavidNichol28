@@ -1,4 +1,4 @@
-# David Hichol
+# David Nichol
 
 Backend-focused systems builder.
 
