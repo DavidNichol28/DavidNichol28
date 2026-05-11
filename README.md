@@ -40,4 +40,4 @@ Linux, Git, Dart, Python, SQLite
 
 ---
 
-> I document things because future-me deserves matters.
+> I document things because future-me matters.
