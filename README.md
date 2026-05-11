@@ -4,6 +4,10 @@ Backend-focused systems builder.
 
 Interested in FOSS, software architecture, automation, and durable tooling.
 
+## Design Philosophy
+
+Software should remain understandable, maintainable, and usable without unnecessary dependency chains or centralized infrastructure.
+
 ## Current Focus
 
 - Static website generation from structured writing
