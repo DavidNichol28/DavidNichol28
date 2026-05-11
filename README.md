@@ -1,16 +1,43 @@
-## Hi there 👋
+# David Hichol
 
-<!--
-**DavidNichol28/DavidNichol28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused systems builder.
 
-Here are some ideas to get you started:
+Interested in FOSS, software architecture, automation, and durable tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Static website generation from structured writing
+- Documentation-driven architecture
+- Local-first tooling
+- Low-dependency software systems
+
+## Featured Project
+
+### Website Generator
+
+A documentation-first static website generation system designed to turn structured writing into navigable websites with minimal friction.
+
+Current work includes:
+
+- filesystem-driven navigation architecture
+- markdown parsing
+- template generation
+- deployment workflows
+- content organization systems
+
+## Areas of Interest
+
+- Backend systems
+- Software architecture
+- Automation tooling
+- Static site generation
+- Documentation systems
+- FOSS infrastructure
+
+## Preferred Environment
+
+Linux, Git, Dart, Python, SQLite
+
+---
+
+> I document things because future-me deserves matters.
